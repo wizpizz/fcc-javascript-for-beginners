@@ -1,0 +1,1 @@
+import * as capitalizeString from "capitalize_strings"; // Doesn't actually import anything, but it's a valid import statement.

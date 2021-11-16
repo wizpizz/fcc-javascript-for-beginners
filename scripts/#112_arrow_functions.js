@@ -1,0 +1,1 @@
+const magic = () => new Date(); // returns the Date
